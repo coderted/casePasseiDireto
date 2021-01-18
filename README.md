@@ -1,4 +1,4 @@
-# casePasseiDireto
+# Case Passei Direto
  O intuito desse case é Processar e Analisar dados de sessões de usuário, Utilizando como ferramentas o PySpark para processar e tratar os dados e a estrutura Delta lake para armazená-los. 
  
  Como boas práticas de uso da Delta lake primeiro converti os dados brutos em parquet, depois iniciei o processo de transformação para Delta lake.
